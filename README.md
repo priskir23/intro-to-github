@@ -17,5 +17,6 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 For example, write some information you learned about forks or branches.
 
 New Line to commit
+Another newLine
 
 For example, write some information you learned about forks or branches.
